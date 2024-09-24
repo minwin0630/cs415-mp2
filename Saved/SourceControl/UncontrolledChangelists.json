@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/MP2LevelDesign/Content/BlockGame/Maps/BlockGameMap.umap",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/MP2LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/MP2LevelDesign/Content/LearningKit_Games/UI/WBP_Healthbar.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/MP2LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/MP2LevelDesign/Content/LearningKit_Games/UI/WBP_GameOver.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/MP2LevelDesign/Content/BlockGame/Maps/Level1.umap",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/MP2LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthShard.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/MP2LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthCube.uasset",
+				"C:/Users/mtngu/Documents/UIUC/CS 415/Unreal Projects/MP2LevelDesign/Content/LearningKit_Games/UI/WBP_Score.uasset"
+			]
+		}
+	]
+}
